@@ -28,3 +28,7 @@ APIs: External APIs for item search and metadata
  
  
 4. APIs fetch product data to provide real-time recommendations.
+
+___
+
+[Figma Design](https://www.figma.com/design/LAUxcVJKzLSFeDYlIdvoKq/VivAI?node-id=417-615&t=XdmNtgMp1KhMPwvh-1)
