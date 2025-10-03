@@ -32,3 +32,8 @@ APIs: External APIs for item search and metadata
 ___
 
 [Figma Design](https://www.figma.com/design/LAUxcVJKzLSFeDYlIdvoKq/VivAI?node-id=417-615&t=XdmNtgMp1KhMPwvh-1)
+[App Prototype](https://cloud.protopie.io/p/7cdd3bb7a9026738d679c9d8?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&bgImage=undefined&playSpeed=1&handoff=true)
+
+Alternatively, install [ProtoPie Player App](https://www.protopie.io/learn/docs/player/getting-started?_ga=2.11966397.867037052.1759467473-803740143.1759269170) and scan the QR Code.
+
+<img width="228" height="228" alt="image" src="https://github.com/user-attachments/assets/7a7dcd59-6f29-4f88-a43f-d107466e0a54" />
